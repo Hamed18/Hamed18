@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Front End Development
 - 💞️ I’m looking to collaborate on JavaScript based projects
-- 📫 How to reach me Email: hamedcnec@gmail.com
+- 📫 How to reach me Email: hamedshartaz99@gmail.com
 
 <!---
 Hamed18/Hamed18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
