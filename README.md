@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hamed18
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Front End Development
+- 🌱 I’m currently learning MERN Stack Development
 - 💞️ I’m looking to collaborate on JavaScript based projects
 - 📫 How to reach me Email: hamedshartaz99@gmail.com
 
