@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hamed Hasan Efaz
+- 👋 Hi, I’m Hamed Hasan
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN Stack Development
 - 💞️ I’m looking to collaborate on MERN based projects
