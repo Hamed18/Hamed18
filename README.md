@@ -1,11 +1,5 @@
-- 👋 Hi, I’m Hamed Hasan 
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Full Stack 
-- 💞️ I’m looking to collaborate on MERN based projects
-- 📫 How to reach me? Email: hamedshartaz99@gmail.com
-- Visit my Portfolio: https://simple-portfolio-ucwt.vercel.app/
-
-### Hi there 👋, Hamed Hasan
+### Hi there 👋
+### I am Hamed Hasan
 #### Full Stack Developer | AI Enthusiast
 ![Full Stack Developer | AI Enthusiast](https://media.licdn.com/dms/image/v2/D5616AQEqP4cxT7I8Vw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729541725779?e=1735171200&v=beta&t=hi1GvJd70MXzLg10NGGY1JTlOhNj_-_6oXWAFB_EVzI)
 
@@ -13,11 +7,19 @@
 
 Skills: JavaScript / Python / C++ / React Js / Node Js / Express Js / SQL / MongoDB / System Design
 
-- 🔭 I’m currently working on this page. 
-  
-[![Hamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamed18)](https://github.com/hamed18/github-readme-stats)
+- 👯 I’m looking to collaborate on any kind of web development projects 
+- 💬 Ask me about anything!! 
+- 📫 How to reach me: Email me at hamedshartaz99@gmail.com 
+- ⚡ Fun fact: I enjoy debating also.  
 
-<!---
-Hamed18/Hamed18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hamed18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hamed-ctg//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100071972022937)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://simple-portfolio-ucwt.vercel.app/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hamed18)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamed18)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Hamed18)  
+
