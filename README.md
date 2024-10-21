@@ -1,4 +1,5 @@
-### Hi there 👋, Hamed Hasan
+### Hi there 👋
+### I am Hamed Hasan
 #### Full Stack Developer | AI Enthusiast
 ![Full Stack Developer | AI Enthusiast](https://media.licdn.com/dms/image/v2/D5616AQEwXsvkfr4-SA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729542945336?e=1735171200&v=beta&t=hxJVjMPHxYLRHuLMhXvEUKzoG_uEGIpOD5-lmMhI820)
 
