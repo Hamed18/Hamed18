@@ -7,7 +7,7 @@
 
 ### Hi there 👋, Hamed Hasan
 #### Full Stack Developer | AI Enthusiast
-![Full Stack Developer | AI Enthusiast](https://i.ibb.co.com/gRYvSz2/Hamed-Cover.png)
+![Full Stack Developer | AI Enthusiast](https://ibb.co.com/vj9s3ZF)
 
 "Hi, I’m from Chittagong and currently a Computer Science student. In my leisure time, I enjoy debating, problem-solving, and hanging out with friends. I also love going on road trips. I’ve found my passion in programming, and now I work as a Full Stack Developer. Additionally, I have a growing interest in AI."
 
