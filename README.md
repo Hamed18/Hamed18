@@ -9,7 +9,7 @@ Skills: JavaScript / Python / C++ / React Js / Node Js / Express Js / SQL / Mong
 
 - 👯 I’m looking to collaborate on any kind of web development projects 
 - 💬 Ask me about anything!! 
-- 📫 How to reach me: Email me at hamedshartaz99@gmail.com 
+- 📫 Email me at hamedshartaz99@gmail.com 
 - ⚡ Fun fact: I enjoy debating also.  
 
 
