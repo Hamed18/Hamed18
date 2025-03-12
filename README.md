@@ -1,7 +1,7 @@
 ### Hi There 👋
 ### I am Hamed Hasan
 #### Full Stack Developer | Life Long Learner
-![Full Stack Developer | AI Enthusiast](https://media.licdn.com/dms/image/v2/D5616AQEwXsvkfr4-SA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729542945336?e=1735171200&v=beta&t=hxJVjMPHxYLRHuLMhXvEUKzoG_uEGIpOD5-lmMhI820)
+![Full Stack Developer | AI Enthusiast](https://res.cloudinary.com/df5utoo6u/image/upload/v1741798893/cover_zway8x.jpg)
 
 "Hi, I’m from Chittagong and currently a Computer Science student. In my leisure time, I enjoy debating, problem-solving, and hanging out with friends. I also love going on road trips. I’ve found my passion in programming, and now I work as a Full Stack Developer. Additionally, I have a growing interest in AI."
 
