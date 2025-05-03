@@ -11,7 +11,6 @@
   <br><br>
   "Hi, I’m from Chittagong and I've studied Computer Science. In my leisure time, I enjoy coding, problem-solving, and hanging out with friends. I also love going on road trips. I’ve found my passion in programming, and now I work as a Full Stack Software Developer. Additionally, I have a growing interest in AI."
   <br><br>
-  <img src="https://media.giphy.com/media/26u4p14NoQI9eugWg/giphy.gif" width="60" />
 </p>
 
 ---
@@ -19,20 +18,12 @@
 ### 🚀 My Work
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech-React-blue?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tech-Typescript-blue?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tech-Next.js-black?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tech-Node.js-green?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tech-Express.js-black?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tech-MongoDB-green?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tech-MySQL-blue?style=flat&logo=mysql&logoColor=white" />
-  <br><br>
+  
   I build full-stack web apps with **React**, **Typescript**, **Next.Js**, **Node.js**, **Express.Js** and both **SQL & NoSQL** databases. <br>
   I can integrate **Machine Learning models** into web applications. <br>
   I’m always exploring new technologies and building real-world solutions. <br>
   Looking to collaborate on exciting and impactful projects!
   <br><br>
-  <img src="https://media.giphy.com/media/26gsl1rt1ouhpdwLe/giphy.gif" width="60" />
 </p>
 
 ---
