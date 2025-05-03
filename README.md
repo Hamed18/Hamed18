@@ -7,6 +7,22 @@
 
 Skills: JavaScript / TypeScript / React Js / Node Js / Express / SQL / MongoDB / Next Js / C++ / ML
 
+### 💡 About Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26n6xI3dI92izf2kc/giphy.gif" width="50" /> 
+  <br>
+  I build full-stack web apps with **React**, **Node.js**, and both **SQL & NoSQL** databases  
+  <br><br>
+  I integrate **Machine Learning models** into production web applications  
+  <br><br>
+  I’m always exploring new technologies and building real-world solutions  
+  <br><br>
+  Looking to collaborate on exciting and impactful projects!
+</p>
+
+---
+
 - 👯 I’m looking to collaborate on any kind of web development projects 
 - 💬 Ask me about anything!! 
 - 📫 Email me at hamedcnec@gmail.com 
