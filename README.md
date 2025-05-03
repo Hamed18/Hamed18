@@ -12,9 +12,10 @@
 ### My Work
 
 <p align="center">
-  I build full-stack web apps with **React**, **Typescript**, **Next.Js**, **Node.js**, **Express.Js** and both **SQL & NoSQL** databases  
-  I can integrate **Machine Learning models** into web applications  
-  I’m always exploring new technologies and building real-world solutions  
+  
+  I build full-stack web apps with **React**, **Typescript**, **Next.Js**, **Node.js**, **Express.Js** and both **SQL & NoSQL** databases. <br>
+  I can integrate **Machine Learning models** into web applications. <br> 
+  I’m always exploring new technologies and building real-world solutions. <br>  
   Looking to collaborate on exciting and impactful projects!
 </p>
 
