@@ -1,4 +1,4 @@
-### Hi There 👋
+### Hi👋
 ### I am Hamed Hasan
 #### Full Stack Developer | AI Enthusiast
 ![Full Stack Developer | AI Enthusiast](https://res.cloudinary.com/df5utoo6u/image/upload/v1741798893/cover_zway8x.jpg)
@@ -12,13 +12,9 @@
 ### My Work
 
 <p align="center">
-  
   I build full-stack web apps with **React**, **Typescript**, **Next.Js**, **Node.js**, **Express.Js** and both **SQL & NoSQL** databases  
-  <br>
   I can integrate **Machine Learning models** into web applications  
-  <br>
   I’m always exploring new technologies and building real-world solutions  
-  <br>
   Looking to collaborate on exciting and impactful projects!
 </p>
 
@@ -35,7 +31,7 @@ JavaScript / TypeScript / React Js / Node Js / Express / SQL / MongoDB / Next Js
 - 👯 I’m looking to collaborate on any kind of web development projects 
 - 💬 Ask me about anything!! 
 - 📫 Email me at hamedcnec@gmail.com 
-- ⚡ Contact me: +880 1834937497
+- ⚡ WhatsApp: +880 1834937497
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hamed18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hamed-ctg//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100071972022937)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://hamed-portfolio.vercel.app/)  
@@ -52,4 +48,4 @@ JavaScript / TypeScript / React Js / Node Js / Express / SQL / MongoDB / Next Js
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Hamed18)  
 
----
+
