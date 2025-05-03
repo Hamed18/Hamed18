@@ -7,18 +7,26 @@
 
 "Hi, I’m from Chittagong and I've studied Computer Science. In my leisure time, I enjoy codning, problem-solving, and hanging out with friends. I also love going on road trips. I’ve found my passion in programming, and now I work as a Full Stack Software Developer. Additionally, I have a growing interest in AI."
 
+---
+
+### My Work
+
 <p align="center">
   
-  I build full-stack web apps with **React**, **Node.js**, and both **SQL & NoSQL** databases  
+  I build full-stack web apps with **React**, **Typescript**, **Next.Js**, **Node.js**, **Express.Js** and both **SQL & NoSQL** databases  
   <br>
-  I integrate **Machine Learning models** into production web applications  
+  I can integrate **Machine Learning models** into web applications  
   <br>
   I’m always exploring new technologies and building real-world solutions  
   <br>
   Looking to collaborate on exciting and impactful projects!
 </p>
 
-Skills: JavaScript / TypeScript / React Js / Node Js / Express / SQL / MongoDB / Next Js / C++ / ML
+---
+
+### Tech Skills:
+
+JavaScript / TypeScript / React Js / Node Js / Express / SQL / MongoDB / Next Js / C++ / ML
 
 ---
 
