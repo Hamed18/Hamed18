@@ -24,17 +24,20 @@
 
 ---
 
-### Tech Skills:
+### Tech Skills
 
 JavaScript / TypeScript / React Js / Node Js / Express / SQL / MongoDB / Next Js / C++ / ML
 
 ---
+
+### Contact Info
 
 - 👯 I’m looking to collaborate on any kind of web development projects 
 - 💬 Ask me about anything!! 
 - 📫 Email me at hamedcnec@gmail.com 
 - ⚡ Contact me: +880 1834937497
 
+---
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hamed18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hamed-ctg//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100071972022937)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://hamed-portfolio.vercel.app/)  
 
