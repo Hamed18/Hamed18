@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Location-Chittagong-blue?style=flat&logo=location-pin&logoColor=white" />
   <img src="https://img.shields.io/badge/Field-Software%20Engineering-green?style=flat&logo=school&logoColor=white" />
   <br><br>
-  "Hi, I’m from Chittagong and I've studied Computer Science. In my leisure time, I enjoy coding, problem-solving, and hanging out with friends. I also love going on road trips. I’ve found my passion in programming, and now I work as a Full Stack Software Developer. Additionally, I have a growing interest in AI. I'm looking to collaborate on exciting and impactful projects!"
+  "Hi, I’m from Chittagong and I've studied Computer Science. In my leisure time, I enjoy coding, problem-solving, and hanging out with friends. I also love going on road trips. I’ve found my passion in programming, and now I work as a Full Stack Software Developer. Additionally, I have a growing interest in AI. I'm looking to collaborate on exciting and impactful projects! "
   <br><br>
 </p>
 
