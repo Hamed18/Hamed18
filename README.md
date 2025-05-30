@@ -33,7 +33,7 @@
 ### Contact Info
 
 - 👯 I’m looking to collaborate on any kind of web development projects 
-- 💬 Ask me about anything!! 
+- 💬 Ask me about anything!
 - 📫 Email me at hamedcnec@gmail.com 
 - ⚡ WhatsApp: +880 1834937497
 
