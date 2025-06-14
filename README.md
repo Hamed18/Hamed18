@@ -31,7 +31,6 @@
 ---
 
 ### Contact Info
-
 - 👯 I’m looking to collaborate on any kind of web development projects 
 - 💬 Ask me about anything!
 - 📫 Email me at hamedcnec@gmail.com 
