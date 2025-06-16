@@ -1,5 +1,5 @@
 ### Hi👋
-### I am Hamed Hasan
+### I am Mohammod Hamed Hasan
 #### Full Stack Developer | AI Enthusiast
 ![Full Stack Developer | AI/ML Enthusiast](https://res.cloudinary.com/df5utoo6u/image/upload/v1741798893/cover_zway8x.jpg)
 
