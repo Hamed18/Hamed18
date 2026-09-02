@@ -23,24 +23,41 @@ I care about models that are reproducible, explainable, and auditable in real sy
 
 ---
 
-### 🧠 Key Projects (ML-focused)
+### 🧠 Prioritized ML Projects (featured)
 
-- **Neural Bite — AI Nutrition & Food Quality Inspection**
+Below are the ML projects from this account prioritized as requested — these are in this repo collection and are focused on model research + production readiness.
+
+- **🔤 Emoji-Aware NLP / UX (emoji-aware)**
+  - Emoji-aware language models and tokenizers for improved sentiment/context understanding in short text.
+  - Tasks: emoji-aware embedding augmentation, fine-tuned classifiers for intent & sentiment, and UI integration for richer user feedback.
+  - Production work: lightweight tokenizer pipeline, evaluation metrics per-emoji class, and integration tests for downstream APIs.
+
+- **🪖 War Deepfake Detection (war-deepfake)**
+  - Deepfake detection models trained on face/video forensics datasets, with domain adaptations for conflict/war-time media.
+  - Models & techniques: CNN + transformer ensembles, temporal consistency checks, and multimodal fusion (audio + visual).
+  - Production work: robust preprocessing, adversarial testing, explainability heatmaps, and a monitoring pipeline for drift in live media streams.
+
+- **🎙️ Speech Emotion Recognition (speech-emotion-recognition)**
+  - Audio-based emotion detection for buildling empathetic agents and monitoring patient emotional states in healthcare settings.
+  - Tech: Mel-spectrogram features, CNN/LSTM and attention models, augmentation for noisy/real-world audio.
+  - Production work: model quantization for on-device inference, latency optimizations, and privacy-preserving feature pipelines.
+
+- **🥗 Neural Bite — AI Nutrition & Food Quality Inspection**
   - On-device computer vision + server-side RAG for context-aware explanations.
   - Models: YOLOv8 for detection, MobileNetV2 / TF Lite for mobile inference.
   - Production work: quantized TF Lite models, CI for model evaluation, and explainability overlays for end-users.
 
-- **LLM Agents & Workflow Automation (Production Integrations)**
+- **🤖 LLM Agents & Workflow Automation (Production Integrations)**
   - Built LLM-driven agents that orchestrate multi-step workflows (APIs, DB changes, async jobs).
   - Focus on grounding, tool use safety, and deterministic audit logs for each agent decision.
 
-- **BasaFinder — Smart Rental Platform (ML-enabled features)**
+- **🏠 BasaFinder — Smart Rental Platform (ML-enabled features)**
   - Full-stack platform with recommendation signals, image-based verification, and role-based auditability — patterns useful for healthcare and fintech systems requiring traceability.
 
-- **BikeZone — E‑commerce & Fintech Integration**
+- **🚲 BikeZone — E‑commerce & Fintech Integration**
   - Transaction handling, verified payments, and ML-assisted user flows to reduce fraud and increase conversion.
 
-- **Bioinformatics experiments (ongoing)**
+- **🧬 Bioinformatics experiments (ongoing)**
   - Prototyped pipelines for sequence preprocessing, feature extraction (k-mer embeddings), and small-scale models for classification and variant prioritization. Working toward production-ready pipelines with reproducible containers and CI.
 
 ---
