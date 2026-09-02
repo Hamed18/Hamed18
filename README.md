@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer | Software Engineer | System Design</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Chittagong,%20Bangladesh-blue?style=flat&logo=location-pin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-blue?style=flat&logo=location-pin&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-AI%2FML%20Engineering-green?style=flat&logo=brainly&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20to-Healthcare%20%7C%20Fintech%20%7C%20Bioinformatics-orange?style=flat" />
 </p>
@@ -53,7 +53,7 @@ I care about AI that's not just a demo — models and agents that are tested, va
 **🥗 Neural Bite** — *AI-Powered Nutrition & Food Quality Inspection*
 RAG-based assistance + computer vision (YOLOv8, MobileNetV2) + on-device inference (TensorFlow Lite) on mobile, with explainable AI output. Closest project to health-tech: real-time inference, model optimization for constrained devices, and explainability — all things that matter in clinical and health-data settings.
 
-**🤖 LLM Agents & Workflow Automation** *(Top5Way)*
+**🤖 LLM Agents & Workflow Automation** 
 Built LLM-powered applications and AI agents integrated with REST APIs and backend services to automate real business workflows — production integration, not prototyping.
 
 **🏠 BasaFinder** — *Full-Stack Smart Rental Platform*
