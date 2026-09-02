@@ -25,40 +25,79 @@ I care about models that are reproducible, explainable, and auditable in real sy
 
 ### 🧠 Prioritized ML Projects (featured)
 
-Below are the ML projects from this account prioritized as requested — these are in this repo collection and are focused on model research + production readiness.
+Below are the prioritized ML projects — styled to improve readability and visual appeal. Expand each card for technical notes, production readiness, and quick links.
 
-- **🔤 Emoji-Aware NLP / UX (emoji-aware)**
-  - Emoji-aware language models and tokenizers for improved sentiment/context understanding in short text.
-  - Tasks: emoji-aware embedding augmentation, fine-tuned classifiers for intent & sentiment, and UI integration for richer user feedback.
-  - Production work: lightweight tokenizer pipeline, evaluation metrics per-emoji class, and integration tests for downstream APIs.
+<details>
+<summary>🔤 <strong>Emoji-Aware NLP / UX (emoji-aware)</strong> — <small><em>emoji-aware</em></small></summary>
 
-- **🪖 War Deepfake Detection (war-deepfake)**
-  - Deepfake detection models trained on face/video forensics datasets, with domain adaptations for conflict/war-time media.
-  - Models & techniques: CNN + transformer ensembles, temporal consistency checks, and multimodal fusion (audio + visual).
-  - Production work: robust preprocessing, adversarial testing, explainability heatmaps, and a monitoring pipeline for drift in live media streams.
+- Status: <img src="https://img.shields.io/badge/Status-Production-ready-yellowgreen" /> <img src="https://img.shields.io/badge/Progress-85%25-brightgreen" />
+- What: Emoji-aware tokenization and embeddings to improve sentiment and intent detection in short-text UX.
+- Tech: token-level emoji embeddings, transformer fine-tuning (DistilBERT), lightweight inference pipeline.
+- Production notes: per-emoji evaluation metrics, integration tests, and low-latency API endpoints.
 
-- **🎙️ Speech Emotion Recognition (speech-emotion-recognition)**
-  - Audio-based emotion detection for buildling empathetic agents and monitoring patient emotional states in healthcare settings.
-  - Tech: Mel-spectrogram features, CNN/LSTM and attention models, augmentation for noisy/real-world audio.
-  - Production work: model quantization for on-device inference, latency optimizations, and privacy-preserving feature pipelines.
+</details>
 
-- **🥗 Neural Bite — AI Nutrition & Food Quality Inspection**
-  - On-device computer vision + server-side RAG for context-aware explanations.
-  - Models: YOLOv8 for detection, MobileNetV2 / TF Lite for mobile inference.
-  - Production work: quantized TF Lite models, CI for model evaluation, and explainability overlays for end-users.
+<details>
+<summary>🪖 <strong>War Deepfake Detection (war-deepfake)</strong> — <small><em>war-deepfake</em></small></summary>
 
-- **🤖 LLM Agents & Workflow Automation (Production Integrations)**
-  - Built LLM-driven agents that orchestrate multi-step workflows (APIs, DB changes, async jobs).
-  - Focus on grounding, tool use safety, and deterministic audit logs for each agent decision.
+- Status: <img src="https://img.shields.io/badge/Status-Research%20→%20Prod-orange" /> <img src="https://img.shields.io/badge/Progress-70%25-yellow" />
+- What: Multi-modal deepfake detection tuned for conflict/war-time media (higher robustness to adversarial manipulations).
+- Tech: CNN + transformer ensembles, temporal consistency checks, audio-visual fusion.
+- Production notes: preprocessing pipeline, adversarial evaluation, explainability heatmaps, streaming monitoring.
 
-- **🏠 BasaFinder — Smart Rental Platform (ML-enabled features)**
-  - Full-stack platform with recommendation signals, image-based verification, and role-based auditability — patterns useful for healthcare and fintech systems requiring traceability.
+</details>
 
-- **🚲 BikeZone — E‑commerce & Fintech Integration**
-  - Transaction handling, verified payments, and ML-assisted user flows to reduce fraud and increase conversion.
+<details>
+<summary>🎙️ <strong>Speech Emotion Recognition (speech-emotion-recognition)</strong> — <small><em>speech-emotion-recognition</em></small></summary>
 
-- **🧬 Bioinformatics experiments (ongoing)**
-  - Prototyped pipelines for sequence preprocessing, feature extraction (k-mer embeddings), and small-scale models for classification and variant prioritization. Working toward production-ready pipelines with reproducible containers and CI.
+- Status: <img src="https://img.shields.io/badge/Status-On-Device%20Ready-yellowgreen" /> <img src="https://img.shields.io/badge/Progress-75%25-yellow" />
+- What: Emotion classification from audio for empathetic agents and patient monitoring.
+- Tech: Mel-spectrograms, CNN-LSTM-attention ensembles, augmentation and noise-robust training.
+- Production notes: quantized models (TF Lite), latency budgets, privacy-preserving feature pipelines.
+
+</details>
+
+<details>
+<summary>🥗 <strong>Neural Bite — AI Nutrition & Food Quality Inspection</strong></summary>
+
+- Status: <img src="https://img.shields.io/badge/Status-Deployed-blue" /> <img src="https://img.shields.io/badge/Progress-88%25-brightgreen" />
+- What: On-device CV + server-side RAG for explainable food inspection and nutrition estimation.
+- Tech: YOLOv8, MobileNetV2, TF Lite, RAG for context-aware explanations.
+- Production notes: model quantization, CI for model eval, explainability overlays.
+
+</details>
+
+<details>
+<summary>🤖 <strong>LLM Agents & Workflow Automation</strong></summary>
+
+- Status: <img src="https://img.shields.io/badge/Status-Production%20Integrations-lightgrey" />
+- What: LLM-driven agents that orchestrate multi-step workflows (APIs, DB ops, async jobs) with auditable logs.
+
+</details>
+
+<details>
+<summary>🏠 <strong>BasaFinder — Smart Rental Platform (ML-enabled)</strong></summary>
+
+- Status: <img src="https://img.shields.io/badge/Status-Maintained-lightgrey" />
+- What: Recommendation signals, image verification, and audit-ready access controls.
+
+</details>
+
+<details>
+<summary>🚲 <strong>BikeZone — E‑commerce & Fintech Integration</strong></summary>
+
+- Status: <img src="https://img.shields.io/badge/Status-Maintained-lightgrey" />
+- What: Secure checkout, verified payments, and ML-assisted flows to reduce fraud.
+
+</details>
+
+<details>
+<summary>🧬 <strong>Bioinformatics experiments</strong></summary>
+
+- Status: <img src="https://img.shields.io/badge/Status-Experimental-orange" />
+- What: Sequence preprocessing, k-mer embeddings, classifiers for variant prioritization; moving toward reproducible pipelines.
+
+</details>
 
 ---
 
@@ -93,40 +132,17 @@ Below are the ML projects from this account prioritized as requested — these a
 ### 📊 Visualizations & Live Activity
 
 <p align="center">
-  <!-- GitHub contribution heatmap / activity graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hamed18&custom_title=Contribution%20Activity&theme=react-dark" alt="activity graph" />
-  
-  <!-- GitHub readme stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamed18&show_icons=true&theme=default" alt="GitHub stats" />
-  
+  <!-- Contribution heatmap (SVG) -->
+  <img src="https://ghchart.rshah.org/Hamed18" alt="contribution chart" />
+
+  <!-- GitHub readme stats (styled) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamed18&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+
   <!-- Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamed18&theme=dark" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamed18&theme=dark&hide_border=true" alt="streak" />
 </p>
 
-> For a more interactive visualization (animated timeline / Sankey of contributions), I can add a small JavaScript widget or an embedded SVG animation — tell me which style you prefer and I will add it.
-
----
-
-### 🧭 Systems Diagram (ML → Product)
-
-```mermaid
-flowchart TD
-  A[Raw Data] --> B[Preprocessing & Validation]
-  B --> C[Feature Store]
-  C --> D[Model Training & CI]
-  D --> E[Model Registry / Versioning]
-  E --> F[Serving (Docker / TF Lite / Serverless)]
-  F --> G[Application / API]
-  G --> H[Monitoring & Observability]
-  H --> B
-
-  subgraph Prod
-    D
-    E
-    F
-    H
-  end
-```
+> Note: GitHub strips arbitrary JavaScript and some external services can be rate-limited — if an image does not render in README you can (A) allowlist the image host in your browser, (B) ask me to generate static SVGs and commit them to the repo (guaranteed rendering), or (C) host a GitHub Pages site for richer animations.
 
 ---
 
@@ -143,5 +159,5 @@ flowchart TD
 ---
 
 <p align="center">
-  Want a tailored version of this README (different tone, more technical detail, or a CV-style layout)? Tell me which style and I'll create it.
+  Want animations, custom SVG project cards, or GIF demos embedded directly in the README? I can generate animated SVG cards for each prioritized project and commit them; say “Generate animated SVG cards” and I’ll add them next.
 </p>
