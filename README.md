@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mohammod Hamed Hasan</h1>
+<h1 align="center">Hi 👋, I'm</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=800&lines=Mohammod+Hamed+Hasan" alt="Mohammod Hamed Hasan" />
+</p>
+
 <h3 align="center">AI/ML Engineer | Software Engineer | System Design</h3>
 
 <p align="center">
@@ -15,77 +20,97 @@ I'm a Computer Science & Engineering graduate from Bangladesh, building producti
 
 I care about AI that's not just a demo — models and agents that are tested, validated, and shipped responsibly into systems people actually rely on.
 
-- 🔬 **Healthcare-adjacent AI**: built an AI-powered nutrition & food quality inspection app combining RAG, computer vision, and on-device inference
-- 🤖 **Production AI systems**: shipped LLM-powered applications and AI agents integrated into real backend workflows, not just notebooks
-- 🏗️ **Full-stack foundation**: comfortable owning a feature from database schema to API to UI, which matters when ML has to live inside a real product
-- 📈 **Currently exploring**: bioinformatics data pipelines and fintech-grade ML (fraud detection, risk modeling) — actively building toward these domains
-- 🤝 Looking to collaborate on projects where AI/ML meets real-world, high-stakes data
+- 🔬 **Healthcare & Bioinformatics:** ML pipelines for sequence/omics analysis, diagnostic/monitoring tooling, and trustworthy model deployment.
+- 🤖 **Production ML:** scalable inference, model lifecycle (CI/CD for ML), observability, and cost-aware deployment (on-device & cloud).
+- 💳 **Fintech-relevant ML:** payment flows, transactional integrity, and fraud detection systems with audit trails.
+- 🏗️ **Full-stack engineering:** I own feature delivery end-to-end (data, model, API, backend, and frontend).
 
 ---
 
-### 🧠 Featured & Prioritized ML Projects
+### 🧠 Featured Projects — ML first, Full-stack after
 
-<!-- animated heading (typing) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=800&lines=Emoji-Aware+NLP%20%7C%20War+Deepfake+Detection%20%7C%20Speech+Emotion+Recognition" alt="projects-typing" />
-</p>
+Below are the ML-focused projects listed first (prioritized). Each entry contains an overview, technical approach, and production notes.
 
-Below are the prioritized ML projects (moved to the top as requested). Each entry includes short tech notes and production-readiness bullets — expand for more detail.
+#### 🎙️ Speech Emotion Recognition (speech-emotion-recognition)
+Overview: Speech Emotion Recognition detects emotional states from short audio clips to enable empathetic agents and clinical monitoring tools.
 
-<details>
-<summary>🔤 <strong>Emoji-Aware NLP / UX</strong> — emoji-aware</summary>
+What I built:
+- Front-end: robust audio preprocessing (VAD, denoising) and Mel-spectrogram pipelines.
+- Models: CNN + LSTM + attention ensembles fine-tuned for emotion classes.
+- Deployment: quantized TensorFlow Lite exports for on-device inference and a low-latency server-side REST endpoint for batch analytics.
 
-- Goal: Improve short-text sentiment & intent detection by treating emojis as first-class tokens (emoji-aware embeddings + downstream classifiers).
-- Tech: custom tokenizer with emoji token mapping, embedding augmentation, DistilBERT fine-tuning, and lightweight inference endpoint.
-- Production: per-emoji evaluation metrics, integration tests, batching & caching for low-latency API responses, and CI for model updates.
+Production notes:
+- Augmentation and noise-robust training to handle real-world audio and telephony quality.
+- Latency budgets and memory-optimized models for mobile/edge.
+- Privacy-preserving feature extraction (no raw audio stored) and monitoring for false-positive trends.
 
-</details>
+---
 
-<details>
-<summary>🪖 <strong>War Deepfake Detection</strong> — war-deepfake</summary>
+#### 🪖 War Deepfake Detection (war-deepfake)
+Overview: A detection system focused on manipulated media in conflict settings, emphasizing robustness to adversarial attacks and compression artifacts common in social media videos.
 
-- Goal: Detect manipulated media relevant to conflict zones with high robustness to adversarial and compressed sources.
-- Tech: ensemble of CNN and transformer-based visual models, temporal consistency checks, optional audio-visual fusion for improved recall.
-- Production: preprocessing pipeline (frame extraction, normalization), adversarial testing harness, explainability heatmaps, streaming-monitor drift alerts.
+What I built:
+- Pipeline: frame extraction, temporal smoothing, face/scene forensics preprocessing.
+- Models: ensembles combining CNN-based forensic classifiers and transformer architectures for temporal consistency checks; optional audio-visual fusion when audio is available.
+- Explainability: saliency/heatmap overlays and per-frame anomaly scores to aid human verification.
 
-</details>
+Production notes:
+- Adversarial testing harness and monitoring for drift when models are exposed to novel manipulation techniques.
+- Streaming-friendly inference and batching for near-real-time flagging of suspicious media.
+- Audit logs and explainable outputs so downstream moderators can trace why media was flagged.
 
-<details>
-<summary>🎙️ <strong>Speech Emotion Recognition</strong> — speech-emotion-recognition</summary>
+---
 
-- Goal: Detect emotional states from speech for empathetic agents and clinical monitoring.
-- Tech: Mel-spectrogram front-end, CNN+LSTM+attention models, augmentation for noise/room effects, and on-device TF Lite export.
-- Production: quantized models for mobile, latency budgets, privacy-preserving feature extraction, and monitoring of false positive patterns.
+#### 🔤 Emoji-Aware NLP / UX (emoji-aware)
+Overview: Emoji-aware language models that treat emojis as first-class tokens to improve sentiment, intent, and micro-conversation understanding in short-text applications.
 
-</details>
+What I built:
+- Tokenization: extended tokenizer mapping emojis to dedicated tokens and normalizing multi-codepoint emojis.
+- Modeling: embedding augmentation and fine-tuning of compact transformer models (DistilBERT-style) to leverage emoji semantics.
+- Integration: lightweight inference endpoints and UI hooks to display emoji-aware explanations.
 
-<details>
-<summary>🥗 <strong>Neural Bite</strong> — AI Nutrition & Food Quality Inspection</summary>
+Production notes:
+- Per-emoji evaluation metrics and confusion matrices to identify ambiguous cases.
+- Integration tests and cached inference to meet latency targets in chat/UX flows.
 
-RAG-based assistance + computer vision (YOLOv8, MobileNetV2) + on-device inference (TensorFlow Lite) on mobile, with explainable AI output. Closest project to health-tech: real-time inference, model explainability overlays, and CI-driven evaluation.
+---
 
-</details>
+#### 🥗 Neural Bite — AI Nutrition & Food Quality Inspection
+Overview: Mobile-first app combining on-device computer vision and server-side context (RAG) to inspect food quality, estimate nutrition, and provide explainable outputs to users.
 
-<details>
-<summary>🤖 <strong>LLM Agents & Workflow Automation</strong></summary>
+What I built:
+- Detection: YOLOv8-based pipelines for food item and defect detection.
+- On-device: MobileNetV2 → TensorFlow Lite quantized models for inference on resource-constrained devices.
+- Explainability: server-side retrieval-augmented explanations (RAG) and overlays that explain model decisions.
 
-Built LLM-powered applications and AI agents integrated with REST APIs and backend services to automate real business workflows — focus on safe tool use, grounding, and auditable logs.
+Production notes:
+- Model quantization and CI for model evaluation, plus user-facing explainability overlays.
 
-</details>
+---
 
-<details>
-<summary>🏠 <strong>BasaFinder</strong> — Full-Stack Smart Rental Platform</summary>
+### 🧩 Full-stack & Product Projects
 
-End-to-end platform with JWT auth, role-based access, and REST API integration — includes ML-enabled features like recommendations and image verification.
+#### 🤖 LLM Agents & Workflow Automation
+Overview: LLM-driven agents that orchestrate multi-step workflows (APIs, DB operations, asynchronous jobs) with deterministic logs for auditing.
 
-</details>
+What I built:
+- Agent orchestration frameworks tied to backend services and audit logs.
+- Safety and grounding checks, tool use constraints, and replayable traces for debugging.
 
-<details>
-<summary>🚲 <strong>BikeZone</strong> — Full-Stack E-Commerce Application</summary>
 
-Secure checkout and inventory system with JWT-based authorization — transactional integrity under concurrent load, with ML-assisted flows to reduce fraud.
+#### 🏠 BasaFinder — Smart Rental Platform
+Overview: End-to-end rental platform with role-based access and ML-enabled recommendations.
 
-</details>
+What I built:
+- Secure JWT-based auth, image verification modules, and recommendation signals that improve discovery.
+- Focus on traceability and auditable pipelines — important for domains with sensitive data.
+
+
+#### 🚲 BikeZone — E‑commerce & Fintech Integration
+Overview: Full-stack e-commerce application with verified payments and transaction integrity.
+
+What I built:
+- Secure checkout flows, inventory management, and ML features to detect fraudulent transactions and optimize conversions.
 
 ---
 
@@ -93,23 +118,17 @@ Secure checkout and inventory system with JWT-based authorization — transactio
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat&logo=yolo&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM%20Integration-412991?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-000000?style=flat&logo=mlflow&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
 </p>
 
 ---
@@ -117,10 +136,7 @@ Secure checkout and inventory system with JWT-based authorization — transactio
 ### 📊 Visualizations & Live Activity
 
 <p align="center">
-  <!-- contribution chart (ghchart) -->
   <img src="https://ghchart.rshah.org/Hamed18" alt="contribution chart" />
-  
-  <!-- GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Hamed18&show_icons=true&theme=default" alt="GitHub stats" />
 </p>
 
