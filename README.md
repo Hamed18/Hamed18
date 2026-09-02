@@ -11,7 +11,7 @@
 
 ### 💡 About Me
 
-I'm a Computer Science & Engineering graduate from Bangladesh, building production software at the intersection of full-stack engineering and applied AI/ML. My background spans LLM-powered applica[...]
+I'm a Computer Science & Engineering graduate from Bangladesh, building production software at the intersection of full-stack engineering and applied AI/ML. My background spans LLM-powered applications, computer vision, and applied signal processing for real-world products.
 
 I care about AI that's not just a demo — models and agents that are tested, validated, and shipped responsibly into systems people actually rely on.
 
@@ -20,6 +20,72 @@ I care about AI that's not just a demo — models and agents that are tested, va
 - 🏗️ **Full-stack foundation**: comfortable owning a feature from database schema to API to UI, which matters when ML has to live inside a real product
 - 📈 **Currently exploring**: bioinformatics data pipelines and fintech-grade ML (fraud detection, risk modeling) — actively building toward these domains
 - 🤝 Looking to collaborate on projects where AI/ML meets real-world, high-stakes data
+
+---
+
+### 🧠 Featured & Prioritized ML Projects
+
+<!-- animated heading (typing) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=800&lines=Emoji-Aware+NLP%20%7C%20War+Deepfake+Detection%20%7C%20Speech+Emotion+Recognition" alt="projects-typing" />
+</p>
+
+Below are the prioritized ML projects (moved to the top as requested). Each entry includes short tech notes and production-readiness bullets — expand for more detail.
+
+<details>
+<summary>🔤 <strong>Emoji-Aware NLP / UX</strong> — emoji-aware</summary>
+
+- Goal: Improve short-text sentiment & intent detection by treating emojis as first-class tokens (emoji-aware embeddings + downstream classifiers).
+- Tech: custom tokenizer with emoji token mapping, embedding augmentation, DistilBERT fine-tuning, and lightweight inference endpoint.
+- Production: per-emoji evaluation metrics, integration tests, batching & caching for low-latency API responses, and CI for model updates.
+
+</details>
+
+<details>
+<summary>🪖 <strong>War Deepfake Detection</strong> — war-deepfake</summary>
+
+- Goal: Detect manipulated media relevant to conflict zones with high robustness to adversarial and compressed sources.
+- Tech: ensemble of CNN and transformer-based visual models, temporal consistency checks, optional audio-visual fusion for improved recall.
+- Production: preprocessing pipeline (frame extraction, normalization), adversarial testing harness, explainability heatmaps, streaming-monitor drift alerts.
+
+</details>
+
+<details>
+<summary>🎙️ <strong>Speech Emotion Recognition</strong> — speech-emotion-recognition</summary>
+
+- Goal: Detect emotional states from speech for empathetic agents and clinical monitoring.
+- Tech: Mel-spectrogram front-end, CNN+LSTM+attention models, augmentation for noise/room effects, and on-device TF Lite export.
+- Production: quantized models for mobile, latency budgets, privacy-preserving feature extraction, and monitoring of false positive patterns.
+
+</details>
+
+<details>
+<summary>🥗 <strong>Neural Bite</strong> — AI Nutrition & Food Quality Inspection</summary>
+
+RAG-based assistance + computer vision (YOLOv8, MobileNetV2) + on-device inference (TensorFlow Lite) on mobile, with explainable AI output. Closest project to health-tech: real-time inference, model explainability overlays, and CI-driven evaluation.
+
+</details>
+
+<details>
+<summary>🤖 <strong>LLM Agents & Workflow Automation</strong></summary>
+
+Built LLM-powered applications and AI agents integrated with REST APIs and backend services to automate real business workflows — focus on safe tool use, grounding, and auditable logs.
+
+</details>
+
+<details>
+<summary>🏠 <strong>BasaFinder</strong> — Full-Stack Smart Rental Platform</summary>
+
+End-to-end platform with JWT auth, role-based access, and REST API integration — includes ML-enabled features like recommendations and image verification.
+
+</details>
+
+<details>
+<summary>🚲 <strong>BikeZone</strong> — Full-Stack E-Commerce Application</summary>
+
+Secure checkout and inventory system with JWT-based authorization — transactional integrity under concurrent load, with ML-assisted flows to reduce fraud.
+
+</details>
 
 ---
 
@@ -48,25 +114,15 @@ I care about AI that's not just a demo — models and agents that are tested, va
 
 ---
 
-### 🧠 Featured Projects
+### 📊 Visualizations & Live Activity
 
-**🥗 Neural Bite** — *AI-Powered Nutrition & Food Quality Inspection*
-RAG-based assistance + computer vision (YOLOv8, MobileNetV2) + on-device inference (TensorFlow Lite) on mobile, with explainable AI output. Closest project to health-tech: real-time inference, mod[...]
-
-**🤖 LLM Agents & Workflow Automation** 
-Built LLM-powered applications and AI agents integrated with REST APIs and backend services to automate real business workflows — production integration, not prototyping.
-
-**🏠 BasaFinder** — *Full-Stack Smart Rental Platform*
-End-to-end platform with JWT auth, role-based access, and REST API integration — the kind of secure, auditable system design that fintech and healthcare data also demand.
-
-**🚲 BikeZone** — *Full-Stack E-Commerce Application*
-Secure checkout and inventory system with JWT-based authorization — transactional integrity under concurrent load, a pattern directly relevant to fintech transaction systems.
-
----
-
-### 🎯 Where I'm Headed
-
-I'm actively building toward roles where ML directly touches domain-critical data — genomic/clinical data pipelines in bioinformatics, diagnostic or monitoring tools in healthcare, and risk/frau[...]
+<p align="center">
+  <!-- contribution chart (ghchart) -->
+  <img src="https://ghchart.rshah.org/Hamed18" alt="contribution chart" />
+  
+  <!-- GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamed18&show_icons=true&theme=default" alt="GitHub stats" />
+</p>
 
 ---
 
@@ -76,15 +132,6 @@ I'm actively building toward roles where ML directly touches domain-critical dat
   <a href="https://github.com/Hamed18"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="32" /></a>
   <a href="https://www.linkedin.com/in/hamed-ctg/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="32" /></a>
   <a href="mailto:hamedhasan.dev@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="32" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100071972022937"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="32" /></a>
 </p>
 
-<p align="center">
-  📧 hamedhasan.dev@gmail.com &nbsp;|&nbsp; ⚡ WhatsApp: +880 1834937497
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamed18&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
+<p align="center">📧 hamedhasan.dev@gmail.com &nbsp;|&nbsp; ⚡ WhatsApp: +880 1834937497</p>
