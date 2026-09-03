@@ -142,20 +142,12 @@ Production notes:
 
 ---
 
-### 📊 Visualizations & Live Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamed18&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
-
----
-
 ### 📫 Get in Touch
 
 <p align="center">
   <a href="https://github.com/Hamed18"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="32" /></a>
   <a href="https://www.linkedin.com/in/devhamed/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="32" /></a>
-  <a href="hamedhasan.dev@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="32" /></a>
+  <a href="mailto:hamedhasan.dev@gmail.com?subject=Hello%20Hamed&body=Hi%20there" ><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="32" /></a>
 </p>
 
 <p align="center">📧 hamedhasan.dev@gmail.com &nbsp;|&nbsp; ⚡ WhatsApp: +880 1834937497</p>
