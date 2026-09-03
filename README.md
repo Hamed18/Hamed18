@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Bangladesh-blue?style=flat&logo=location-pin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20Engineering-green?style=flat&logo=brainly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Software%20Engineering-green?style=flat&logo=brainly&logoColor=white" alt="AI/ML & Software Engineering" />
   <img src="https://img.shields.io/badge/Open%20to-Healthcare%20%7C%20Fintech%20%7C%20Bioinformatics-orange?style=flat" />
 </p>
 
