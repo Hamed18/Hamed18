@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=800&lines=Mohammod+Hamed+Hasan" alt="Mohammod Hamed Hasan" />
 </p>
 
-<h3 align="center">AI/ML Engineer | Software Engineer | System Design Architect</h3>
+<h3 align="center">AI/ML Engineer | Software Engineer | System Architect</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-blue?style=flat&logo=location-pin&logoColor=white" />
@@ -27,9 +27,9 @@ I care about AI that's not just a demo — models and agents that are tested, va
 
 ---
 
-### 🧠 Featured Projects — AI/ML & Full Stack Application
+### 🧠 Featured Projects — Full-stack & Product Projects 
 
-Below are the projects lists. Each entry contains an overview, technical approach, and production notes.
+Below are the Full-Stack & AI projects lists. Each entry contains an overview, technical approach, and production notes.
 
 #### 🥗 Neural Bite — AI Nutrition & Food Quality Inspection
 Overview: Mobile-first app combining on-device computer vision and server-side context (RAG) to inspect food quality, estimate nutrition, and provide explainable outputs to users.
@@ -43,8 +43,6 @@ Production notes:
 - Model quantization and CI for model evaluation, plus user-facing explainability overlays.
 
 ---
-
-### 🧩 Full-stack & Product Projects
 
 #### 🤖 LLM Agents & Workflow Automation
 Overview: LLM-driven agents that orchestrate multi-step workflows (APIs, DB operations, asynchronous jobs) with deterministic logs for auditing.
@@ -67,6 +65,8 @@ Overview: Full-stack e-commerce application with verified payments and transacti
 
 
 ---
+### 🧠 Featured Projects — Machine Learning
+Below are the Machine Learning projects lists. Each entry contains an overview, technical approach, and production notes.
 
 #### 🎙️ Speech Emotion Recognition (speech-emotion-recognition)
 Overview: Speech Emotion Recognition detects emotional states from short audio clips to enable empathetic agents and clinical monitoring tools.
