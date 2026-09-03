@@ -7,7 +7,7 @@
 <h3 align="center">AI/ML Engineer | Software Engineer | System Architect</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-blue?style=flat&logo=location-pin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Bangladesh-blue?style=flat&logo=location-pin&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-AI%2FML%20Engineering-green?style=flat&logo=brainly&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20to-Healthcare%20%7C%20Fintech%20%7C%20Bioinformatics-orange?style=flat" />
 </p>
@@ -145,7 +145,6 @@ Production notes:
 ### 📊 Visualizations & Live Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/Hamed18" alt="contribution chart" />
   <img src="https://github-readme-stats.vercel.app/api?username=Hamed18&show_icons=true&theme=default" alt="GitHub stats" />
 </p>
 
