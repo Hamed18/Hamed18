@@ -31,6 +31,19 @@ I care about AI that's not just a demo — models and agents that are tested, va
 
 Below are the projects lists. Each entry contains an overview, technical approach, and production notes.
 
+#### 🥗 Neural Bite — AI Nutrition & Food Quality Inspection
+Overview: Mobile-first app combining on-device computer vision and server-side context (RAG) to inspect food quality, estimate nutrition, and provide explainable outputs to users.
+
+What I built:
+- Detection: YOLOv8-based pipelines for food item and defect detection.
+- On-device: MobileNetV2 → TensorFlow Lite quantized models for inference on resource-constrained devices.
+- Explainability: server-side retrieval-augmented explanations (RAG) and overlays that explain model decisions.
+
+Production notes:
+- Model quantization and CI for model evaluation, plus user-facing explainability overlays.
+
+---
+
 ### 🧩 Full-stack & Product Projects
 
 #### 🤖 LLM Agents & Workflow Automation
@@ -96,19 +109,6 @@ What I built:
 Production notes:
 - Per-emoji evaluation metrics and confusion matrices to identify ambiguous cases.
 - Integration tests and cached inference to meet latency targets in chat/UX flows.
-
----
-
-#### 🥗 Neural Bite — AI Nutrition & Food Quality Inspection
-Overview: Mobile-first app combining on-device computer vision and server-side context (RAG) to inspect food quality, estimate nutrition, and provide explainable outputs to users.
-
-What I built:
-- Detection: YOLOv8-based pipelines for food item and defect detection.
-- On-device: MobileNetV2 → TensorFlow Lite quantized models for inference on resource-constrained devices.
-- Explainability: server-side retrieval-augmented explanations (RAG) and overlays that explain model decisions.
-
-Production notes:
-- Model quantization and CI for model evaluation, plus user-facing explainability overlays.
 
 ---
 
