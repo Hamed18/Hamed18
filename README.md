@@ -29,7 +29,31 @@ I care about AI that's not just a demo — models and agents that are tested, va
 
 ### 🧠 Featured Projects — AI/ML & Full Stack Application
 
-Below are the ML-focused projects listed first (prioritized). Each entry contains an overview, technical approach, and production notes.
+Below are the projects lists. Each entry contains an overview, technical approach, and production notes.
+
+### 🧩 Full-stack & Product Projects
+
+#### 🤖 LLM Agents & Workflow Automation
+Overview: LLM-driven agents that orchestrate multi-step workflows (APIs, DB operations, asynchronous jobs) with deterministic logs for auditing.
+
+What I built:
+- Agent orchestration frameworks tied to backend services and audit logs.
+- Safety and grounding checks, tool use constraints, and replayable traces for debugging.
+
+
+#### 🏠 BasaFinder — Smart Rental Platform
+Overview: End-to-end rental platform with role-based access and ML-enabled recommendations.
+
+What I built:
+- Secure JWT-based auth, image verification modules, and recommendation signals that improve discovery.
+- Focus on traceability and auditable pipelines — important for domains with sensitive data.
+
+
+#### 🚲 BikeZone — E‑commerce & Fintech Integration
+Overview: Full-stack e-commerce application with verified payments and transaction integrity.
+
+
+---
 
 #### 🎙️ Speech Emotion Recognition (speech-emotion-recognition)
 Overview: Speech Emotion Recognition detects emotional states from short audio clips to enable empathetic agents and clinical monitoring tools.
@@ -88,31 +112,6 @@ Production notes:
 
 ---
 
-### 🧩 Full-stack & Product Projects
-
-#### 🤖 LLM Agents & Workflow Automation
-Overview: LLM-driven agents that orchestrate multi-step workflows (APIs, DB operations, asynchronous jobs) with deterministic logs for auditing.
-
-What I built:
-- Agent orchestration frameworks tied to backend services and audit logs.
-- Safety and grounding checks, tool use constraints, and replayable traces for debugging.
-
-
-#### 🏠 BasaFinder — Smart Rental Platform
-Overview: End-to-end rental platform with role-based access and ML-enabled recommendations.
-
-What I built:
-- Secure JWT-based auth, image verification modules, and recommendation signals that improve discovery.
-- Focus on traceability and auditable pipelines — important for domains with sensitive data.
-
-
-#### 🚲 BikeZone — E‑commerce & Fintech Integration
-Overview: Full-stack e-commerce application with verified payments and transaction integrity.
-
-What I built:
-- Secure checkout flows, inventory management, and ML features to detect fraudulent transactions and optimize conversions.
-
----
 
 ### 🚀 Technologies & Tools
 
@@ -125,10 +124,11 @@ What I built:
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat&logo=yolo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-5C2D91?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-00A4EF?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-000000?style=flat&logo=mlflow&logoColor=white" />
   <br>
@@ -155,8 +155,8 @@ What I built:
 
 <p align="center">
   <a href="https://github.com/Hamed18"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="32" /></a>
-  <a href="https://www.linkedin.com/in/hamed-ctg/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="32" /></a>
-  <a href="mailto:hamedhasan.dev@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="32" /></a>
+  <a href="https://www.linkedin.com/in/devhamed/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="32" /></a>
+  <a href="hamedhasan.dev@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="32" /></a>
 </p>
 
 <p align="center">📧 hamedhasan.dev@gmail.com &nbsp;|&nbsp; ⚡ WhatsApp: +880 1834937497</p>
