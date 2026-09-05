@@ -27,7 +27,7 @@ I care about AI that's not just a demo — models and agents that are tested, va
 
 ---
 
-### 🧠 Featured Projects — Full-stack & Product Projects 
+### 🧠 Featured Projects — Full-stack Projects 
 
 Below are the Full-Stack & AI projects lists. Each entry contains an overview, technical approach, and production notes.
 
