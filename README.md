@@ -16,7 +16,7 @@
 
 ### 💡 About Me
 
-I'm a Computer Science & Engineering graduate from Bangladesh, building production software at the intersection of full-stack engineering and applied AI/ML. My background spans LLM-powered applications, computer vision, and applied signal processing for real-world products.
+I'm a Computer Science & Engineering graduate from Bangladesh, building production software at the intersection of full-stack engineering and applied AI/ML. My background spans software development, LLM-powered applications, computer vision, NLP and applied signal processing for real-world products.
 
 I care about AI that's not just a demo — models and agents that are tested, validated, and shipped responsibly into systems people actually rely on.
 
