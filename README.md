@@ -89,7 +89,7 @@ Overview: A detection system focused on manipulated media in conflict settings, 
 What I built:
 - Pipeline: frame extraction, temporal smoothing, face/scene forensics preprocessing.
 - Models: ensembles combining CNN-based forensic classifiers and transformer architectures for temporal consistency checks; optional audio-visual fusion when audio is available.
-- Explainability: saliency/heatmap overlays and per-frame anomaly scores to aid human verification.
+- Explainability: heatmap overlays and per-frame anomaly scores to aid human verification.
 
 Production notes:
 - Adversarial testing harness and monitoring for drift when models are exposed to novel manipulation techniques.
