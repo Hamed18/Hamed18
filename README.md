@@ -68,7 +68,7 @@ Overview: Full-stack e-commerce application with verified payments and transacti
 ### 🧠 Featured Projects — Machine Learning
 Below are the Machine Learning projects lists. Each entry contains an overview, technical approach, and production notes.
 
-#### 🎙️ Speech Emotion Recognition (speech-emotion-recognition)
+#### 🎙️ Speech Emotion Recognition (Audio Dataset)
 Overview: Speech Emotion Recognition detects emotional states from short audio clips to enable empathetic agents and clinical monitoring tools.
 
 What I built:
@@ -83,7 +83,7 @@ Production notes:
 
 ---
 
-#### 🪖 War Deepfake Detection (war-deepfake)
+#### 🪖 War and Battlefield Footage Deepfake Detection (video dataset)
 Overview: A detection system focused on manipulated media in conflict settings, emphasizing robustness to adversarial attacks and compression artifacts common in social media videos.
 
 What I built:
@@ -98,7 +98,7 @@ Production notes:
 
 ---
 
-#### 🔤 Emoji-Aware NLP / UX (emoji-aware)
+#### 🔤 Emoji-Contribution in Bangla English Code Mixed Social Media Text / Bengali NLP
 Overview: Emoji-aware language models that treat emojis as first-class tokens to improve sentiment, intent, and micro-conversation understanding in short-text applications.
 
 What I built:
