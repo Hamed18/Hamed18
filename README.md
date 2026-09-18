@@ -52,7 +52,7 @@ What I built:
 - Safety and grounding checks, tool use constraints, and replayable traces for debugging.
 
 
-#### 🏠 BasaFinder — Smart Rental Platform
+#### 🏠 BasaFinder — Smart Rental Platform with Automation
 Overview: End-to-end rental platform with role-based access and ML-enabled recommendations.
 
 What I built:
