@@ -60,7 +60,7 @@ What I built:
 - Focus on traceability and auditable pipelines — important for domains with sensitive data.
 
 
-#### 🚲 BikeZone — E‑commerce & Fintech Integration
+#### 🚲 BikeZone — E‑commerce & Fintech 
 Overview: Full-stack e-commerce application with verified payments and transaction integrity.
 
 
