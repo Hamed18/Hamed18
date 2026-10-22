@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=800&lines=Mohammod+Hamed+Hasan" alt="Mohammod Hamed Hasan" />
 </p>
 
-<h3 align="center">AI/ML Engineer | Software Engineer | Solution Architect</h3>
+<h3 align="center">AI/ML Engineer | NLP/Vision/SER Researcher</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Bangladesh-blue?style=flat&logo=location-pin&logoColor=white" />
@@ -16,7 +16,7 @@
 
 ### 💡 About Me
 
-I'm a Computer Science & Engineering graduate from Bangladesh, building production software at the intersection of full-stack engineering and applied AI/ML. My background spans software development, LLM-powered applications, Agentic AI, computer vision, NLP and applied signal processing for real-world products.
+I'm building production software at the intersection of full-stack engineering and applied AI/ML. My background spans software development, LLM-powered applications, Agentic AI, computer vision, NLP and applied signal processing for real-world products.
 
 I care about AI that's not just a demo — models and agents that are tested, validated, and shipped responsibly into systems people actually rely on.
 
