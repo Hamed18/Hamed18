@@ -4,26 +4,44 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=800&lines=Mohammod+Hamed+Hasan" alt="Mohammod Hamed Hasan" />
 </p>
 
-<h3 align="center">AI/ML Engineer | NLP/Vision/SER Researcher</h3>
+<h3 align="center">AI/ML Engineer | AI/LLM/ML Researcher</h3>
+
+### 🚀 Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Bangladesh-blue?style=flat&logo=location-pin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Software%20Engineering-green?style=flat&logo=brainly&logoColor=white" alt="AI/ML & Software Engineering" />
-  <img src="https://img.shields.io/badge/Open%20to-Healthcare%20%7C%20Fintech%20%7C%20Bioinformatics-orange?style=flat" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-5C2D91?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-00A4EF?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-000000?style=flat&logo=mlflow&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
 
 ### 💡 About Me
 
-I'm building production software at the intersection of full-stack engineering and applied AI/ML. My background spans software development, LLM-powered applications, Agentic AI, computer vision, NLP and applied signal processing for real-world products.
+I’m a passionate AI/ML Engineer, System Architect and AI Researcher.
+
+I build and train machine learning models, and integrate them into scalable software applications. My focus is on the entire product lifecycle — from data, model training, and deployment to crafting sleek frontends and robust backends that deliver real impact.
 
 I care about AI that's not just a demo — models and agents that are tested, validated, and shipped responsibly into systems people actually rely on.
-
-- 🔬 **Healthcare & Bioinformatics:** ML pipelines for sequence/omics analysis, diagnostic/monitoring tooling, and trustworthy model deployment.
-- 🤖 **Production ML:** scalable inference, model lifecycle (CI/CD for ML), observability, and cost-aware deployment (on-device & cloud).
-- 💳 **Fintech-relevant ML:** payment flows, transactional integrity, and fraud detection systems with audit trails.
-- 🏗️ **Full-stack engineering:** I own feature delivery end-to-end (data, model, API, backend, and frontend).
 
 ---
 
@@ -112,35 +130,6 @@ Production notes:
 
 ---
 
-
-### 🚀 Technologies & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Vision-5C2D91?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-00A4EF?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-000000?style=flat&logo=mlflow&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-</p>
-
----
 
 ### 📫 Get in Touch
 
