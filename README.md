@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=800&lines=Mohammod+Hamed+Hasan" alt="Mohammod Hamed Hasan" />
 </p>
 
-<h3 align="center">AI/ML Engineer | AI/LLM/ML Researcher</h3>
+<h3 align="center">AI/ML Engineer | AI/LLM/ML Researcher | Full Stack Developer</h3>
 
 ### 🚀 Technologies & Tools
 
