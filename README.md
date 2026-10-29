@@ -37,7 +37,7 @@
 
 ### 💡 About Me
 
-I’m a passionate AI/ML Engineer, System Architect and AI Researcher.
+I’m a passionate AI/ML Engineer, AI Researcher, and Full Stack Developer. 
 
 I build and train machine learning models, and integrate them into scalable software applications. My focus is on the entire product lifecycle — from data, model training, and deployment to crafting sleek frontends and robust backends that deliver real impact.
 
@@ -69,7 +69,6 @@ What I built:
 - Agent orchestration frameworks tied to backend services and audit logs.
 - Safety and grounding checks, tool use constraints, and replayable traces for debugging.
 
-
 #### 🏠 BasaFinder — Smart Rental Platform with Automation
 Overview: End-to-end rental platform with role-based access and ML-enabled recommendations.
 
@@ -77,10 +76,8 @@ What I built:
 - Secure JWT-based auth, image verification modules, and recommendation signals that improve discovery.
 - Focus on traceability and auditable pipelines — important for domains with sensitive data.
 
-
 #### 🚲 BikeZone — E‑commerce & Fintech 
 Overview: Full-stack e-commerce application with verified payments and transaction integrity.
-
 
 ---
 ### 🧠 Featured Projects — Machine Learning
@@ -129,7 +126,6 @@ Production notes:
 - Integration tests and cached inference to meet latency targets in chat/UX flows.
 
 ---
-
 
 ### 📫 Get in Touch
 
